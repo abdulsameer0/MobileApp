@@ -8,7 +8,7 @@ public class MasjidDonationApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MasjidDonationApiApplication.class, args);
-		System.out.println("project succussfully run by devgems developer");
+		System.out.println("project succussfully run by devgems developer.");
 	}
 
 }
